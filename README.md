@@ -1,9 +1,10 @@
 # Proyecto de Base de Datos - Mak Lucas Group
 
 ## Descripción
-Sistema integral de gestión para una cadena de locales de comida rápida.
+Desarrollo de una base de datos para una cadena de locales de comida rápida.
 
-El proyecto busca organizar y administrar la información de las sucursales, empleados, clientes, productos, proveedores, compras, ventas y pedidos.
+El proyecto tiene como finalidad de organizar y mantener toda la información del negocio, permitiendo llevar un mejor control de las sucursales, empleados, clientes, productos, proveedores, compras, ventas, pedidos, stock y pagos.
+De esta manera, se busca facilitar la administración y el manejo de la información de cada local.
 
 ## Objetivos
 - Diseñar una base de datos relacional.
