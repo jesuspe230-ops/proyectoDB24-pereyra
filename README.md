@@ -16,7 +16,7 @@ El proyecto busca organizar y administrar la información de las sucursales, emp
 - MySQL Workbench.
 - MySQL.
 - Laragon.
-- PHP.
+  
 
 ## Módulos principales
 1. Sucursales.
